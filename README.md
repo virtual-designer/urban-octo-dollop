@@ -1,5 +1,5 @@
 # Urban Octo Dollop
-Urban Octo Dollop is Google Style Progress Bar Design Made With HTML, CSS, JavaScript.  
+Urban Octo Dollop is Google Style Progress Bar Design Made With HTML & CSS.  
 
 __Support My Work By Starring This Repository on Github.__
 
